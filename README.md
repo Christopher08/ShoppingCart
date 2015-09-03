@@ -4,7 +4,7 @@ My Shopping Cart Assessment submited for TAFE web dev diploma
 **Features:** 
 ---------
 
-NOTE: This version (1.1) implements a user log-in/log-out system  
+NOTE: This version (1.2) has all features of 1.1 as well as cookies which remember the user for 10 days.  
 
 -add/edit/remove from cart
 -change quantity 
