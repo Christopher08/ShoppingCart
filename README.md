@@ -3,6 +3,9 @@ My Shopping Cart Assessment submited for TAFE web dev diploma
 =============================================================
 **Features:** 
 ---------
+
+NOTE: This version (1.1) implements a user log-in/log-out system  
+
 -add/edit/remove from cart
 -change quantity 
 -linked to paypal as payment gateway (sandbox accounts set up)
