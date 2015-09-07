@@ -14,7 +14,7 @@
  
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li <?php echo $page_title=="Products" ? "class='active'" : ""; ?> >
+                <li <?php echo $page_title=="My incredible Products" ? "class='active'" : ""; ?> >
                     <a href="index.php">Products</a>
                 </li>
                 <li <?php echo $page_title=="Cart" ? "class='active'" : ""; ?> >
