@@ -4,6 +4,9 @@ session_start();
 $page_title="Products";
 include 'header.php';
 
+//here is a change //
+
+
 if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == "logged in"){
 
     echo '<h2>You are logged in <span style="color:red">' . $_SESSION["username"] . '</span>.</h2>';  
